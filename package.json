@@ -1,0 +1,18 @@
+{
+  "name": "portolio2",
+  "version": "1.0.0",
+  "description": "Responsive portfolio project",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w portolio2 -o styles.css -recursive"
+  },
+  "keywords": [
+    "Oliveth"
+  ],
+  "author": "Oliveth",
+  "license": "ISC",
+  "dependencies": {
+    "i": "^0.3.7",
+    "node-sass": "^9.0.0"
+  }
+}
